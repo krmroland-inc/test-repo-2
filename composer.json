@@ -1,0 +1,17 @@
+{
+    "name": "richardnabaasa/test-repo-2",
+    "autoload": {
+        "psr-4": {
+            "Richardnabaasa\\TestRepo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Richard Nabaasa",
+            "email": "nabaasarichard@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "6.2.13"
+    }
+}
